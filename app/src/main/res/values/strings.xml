@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FeedbackFormDemo</string>
+
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="request">Tell us, what\'s happened?</string>
+    <string name="fakeSendText">Do something useful here</string>
+</resources>
